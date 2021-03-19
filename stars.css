@@ -21,11 +21,11 @@ body {
   transition: 2s ease;
 }
 
-.system:hover{
+/* .system:hover{
   transform: translateZ(0);
   -webkit-transform: translate(-75%, -50%) scale(0.7);
           transform: translate(-75%, -50%) scale(0.7);
-}
+} */
 
 .system2 {
   position: absolute;
